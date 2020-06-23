@@ -1,3 +1,1 @@
-# Java-SQLite-GUI
-A Java application, which connects to a sqlite database, with which it is possible to insert, delete, or change entries in the database. The data inside the database is visualy shown in the application.
-![Image of the Application](/pictures/DVDApplication.PNG)
+[![Run on Repl.it](https://repl.it/badge/github/eliaskone/Java-SQLite-GUI)](https://repl.it/github/eliaskone/Java-SQLite-GUI)
